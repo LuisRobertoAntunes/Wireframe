@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  list-style: none;
+  text-decoration: none;
+  box-sizing: border-box;
+
+  /*      Fonts
+      1.6rem  = 16px 
+      62.5%   = 10px 
+      1rem    = 10px
+  */
+  font-family: 'Inter', sans-serif;
+  font-size: 1.6rem;
+}
+html {
+  font-size: 62.5%;
+}
+img {
+  max-width: 100%;
+}
+button {
+  cursor: pointer;
+}

@@ -1,0 +1,15 @@
+.container {
+  /*Definição da grid do site */
+  width: 100%;
+  max-width: 1246px;
+  /* Alinha o contéudo do site ao centro */
+  margin: 0 auto;
+  /* Adiciona um respiro lateral ao dispositivos mobiles */
+  padding: 0px 15px;
+  /* Adicionar a soma dos padding laterais ao max-width */
+}
+.container-fluid {
+  /* Container que ocupa a tela inteira */
+  width: 100%;
+  padding: 0px 15px;
+}
