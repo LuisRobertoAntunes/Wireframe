@@ -74,6 +74,7 @@
   .s-card-featured .second-area .top .title{
     margin-bottom: 2rem;
   }
+  
 }
 @media (max-width: 480px) {
   html{
@@ -122,4 +123,8 @@
   .s-card-featured .second-area .all-imgs .image{
     width: 49%;
   }
+  .s-newsletter {
+    padding: 4rem 0;
+  }
+  
 }
