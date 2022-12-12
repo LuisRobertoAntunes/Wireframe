@@ -117,8 +117,7 @@ section.s-hero {
   margin-top: 4rem;
   max-width: 28.8rem;
 }
-.s-card-featured .all-cards .info h3,
-p {
+.s-card-featured .all-cards .info h3,.s-card-featured .all-cards .info p {
   text-align: center;
 }
 .s-card-featured .all-cards .info p {

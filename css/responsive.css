@@ -55,8 +55,7 @@
     flex-direction: column;
     align-items: center;
   }
-  .s-hero .text h1,
-  p {
+  .s-hero .text h1,.s-hero .text p {
     text-align: center;
   }
   footer main nav {
